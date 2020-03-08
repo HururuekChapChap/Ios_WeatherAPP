@@ -13,6 +13,9 @@
 <img width="875" alt="스크린샷 2020-03-08 오후 10 11 44" src="https://user-images.githubusercontent.com/57618897/76164243-ab93da80-6190-11ea-9759-50646a425741.png">
 <img width="1140" alt="스크린샷 2020-03-08 오후 10 20 33" src="https://user-images.githubusercontent.com/57618897/76164244-ac2c7100-6190-11ea-847f-d28c8928ddd8.png">
 <img width="1140" alt="스크린샷 2020-03-08 오후 10 30 06" src="https://user-images.githubusercontent.com/57618897/76164248-b2225200-6190-11ea-9271-a3ed1e0ec0a4.png">
+
+***여기서 가로로 스크롤 뷰를 하기 위해서는 Frame과 View의 높이를 동일하게 하고 너비를 제한조건으로 정해주면 된다.
+
 <img width="1140" alt="스크린샷 2020-03-08 오후 10 41 00" src="https://user-images.githubusercontent.com/57618897/76164250-b3537f00-6190-11ea-8c81-81e950290eb0.png">
 
 실행 결과 : 
