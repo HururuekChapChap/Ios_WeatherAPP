@@ -21,3 +21,46 @@
 실행 결과 : 
 
 <img width="246" alt="스크린샷 2020-03-08 오후 10 47 06" src="https://user-images.githubusercontent.com/57618897/76164253-b8183300-6190-11ea-9d25-2671914f2ada.png"><img width="246" alt="스크린샷 2020-03-08 오후 10 47 17" src="https://user-images.githubusercontent.com/57618897/76164255-b8b0c980-6190-11ea-82b4-53f07c98b789.png">
+
+
+# 간단한 날씨 앱
+
+내용 :
+
+현재 있는 지역의 날씨와 내일 그리고 모래 까지의 날씨를 알려준다.
+
+KxCoding님의 날씨앱 (https://www.youtube.com/playlist?list=PLziSvys01Oeklz7JjShkmPIXh4jU4j8b4)을 참고하여 개발하였다.
+
+다만 강의의 내용은 거의 미완결 프로젝트라서 혼자 마지막 까지 개발해야하는 좋은 경험이였다.
+
+실행 결과 : 
+
+<img width="279" alt="스크린샷 2020-03-10 오후 10 10 41" src="https://user-images.githubusercontent.com/57618897/76315538-36eda700-631c-11ea-9eb0-707860d30889.png">  <img width="246" alt="결과3" src="https://user-images.githubusercontent.com/57618897/76315543-38b76a80-631c-11ea-8b38-b942404ee33d.png">
+
+<img width="279" alt="결과1" src="https://user-images.githubusercontent.com/57618897/76315525-32c18980-631c-11ea-8d36-938d370a00aa.png"> <img width="279" alt="결과2" src="https://user-images.githubusercontent.com/57618897/76315542-381ed400-631c-11ea-86c3-fb915a254dfd.png">
+
+
+새롭게 알게 된 내용 : 
+
+Hugging Priority와 Compression Resistance priority (https://eunjin3786.tistory.com/43) 
+
+테이블 뷰에서 section에 대해서 (https://zeddios.tistory.com/54)
+
+현재의 위도와 경도를 가져오는 방법 (https://sanghuiiiiii.tistory.com/entry/SWIFT-현재-위치-주소-가져오기-미세먼지앱-1-Day)
+
+optional로 받아지는 위도와 경도를 문자열로 받는 방법 (https://stackoverflow.com/questions/26142441/cllocationdegrees-to-string-variable-in-swift)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
