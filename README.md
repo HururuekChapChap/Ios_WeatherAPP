@@ -1,7 +1,7 @@
 # Ios_WeatherAPP
  날씨 앱 만들기
 
-# Vertical ScrollView
+# ScrollView
 
  먼가 괜찮은 앱 프론트를 개발 하기 위해서는 스크롤 뷰를 알아야한다고 생각했다. Table View 처럼 먼가 스크롤 해서 보여 줄 수 있는 기술이 필요하다고 느꼈다.
  
