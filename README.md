@@ -65,7 +65,9 @@ optional로 받아지는 위도와 경도를 문자열로 받는 방법 (https:/
 
 <img width="1108" alt="스크린샷 2020-03-10 오후 10 43 28" src="https://user-images.githubusercontent.com/57618897/76318746-84b8de00-6321-11ea-8390-75c3001c54e0.png">
 
-#테이블 뷰
+# 테이블 뷰
+
+ 다른 클래스에 있는 뷰의 대하 정보를 cell에서 받아와서 바로 정보를 넣어줄 수 있다!!!
 
 <img width="1410" alt="스크린샷 2020-03-10 오후 10 46 41" src="https://user-images.githubusercontent.com/57618897/76318748-85517480-6321-11ea-91e3-8d49feae4df1.png">
 
