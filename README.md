@@ -51,7 +51,23 @@ Hugging Priority와 Compression Resistance priority (https://eunjin3786.tistory.
 optional로 받아지는 위도와 경도를 문자열로 받는 방법 (https://stackoverflow.com/questions/26142441/cllocationdegrees-to-string-variable-in-swift)
 
 
+코드 : 
 
+현재의 위치를 받아오는 함수
+
+<img width="463" alt="스크린샷 2020-03-10 오후 10 30 34" src="https://user-images.githubusercontent.com/57618897/76318735-808cc080-6321-11ea-9dd2-e2992310f034.png">
+
+현재의 날씨를 받아오는 함수
+
+<img width="1410" alt="스크린샷 2020-03-10 오후 10 42 32" src="https://user-images.githubusercontent.com/57618897/76318740-8387b100-6321-11ea-9366-42c3456b3dd2.png">
+
+내일고 모래의 정보를 받아오느 함수
+
+<img width="1108" alt="스크린샷 2020-03-10 오후 10 43 28" src="https://user-images.githubusercontent.com/57618897/76318746-84b8de00-6321-11ea-8390-75c3001c54e0.png">
+
+#테이블 뷰
+
+<img width="1410" alt="스크린샷 2020-03-10 오후 10 46 41" src="https://user-images.githubusercontent.com/57618897/76318748-85517480-6321-11ea-91e3-8d49feae4df1.png">
 
 
 
