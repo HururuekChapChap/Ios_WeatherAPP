@@ -50,6 +50,8 @@ Hugging Priority와 Compression Resistance priority (https://eunjin3786.tistory.
 
 optional로 받아지는 위도와 경도를 문자열로 받는 방법 (https://stackoverflow.com/questions/26142441/cllocationdegrees-to-string-variable-in-swift)
 
+ViewController의 생명 주기 (https://zeddios.tistory.com/43)
+
 
 코드 : 
 
